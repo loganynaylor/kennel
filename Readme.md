@@ -318,11 +318,3 @@ rake plan
 Then make changes to play around, do not commit changes and make sure to revert with a `rake kennel:update_datadog` after deleting everything.
 
 To make changes via the UI, make a new free datadog account and use it's credentaisl instead.
-
-Author
-======
-[Michael Grosser](http://grosser.it)<br/>
-michael@grosser.it<br/>
-License: MIT<br/>
-![CI](https://github.com/grosser/kennel/workflows/CI/badge.svg)
-<!-- NOT IN -->
